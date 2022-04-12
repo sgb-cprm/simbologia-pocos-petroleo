@@ -1,0 +1,131 @@
+Versão do QGIS: 3.16.16-Hannover
+Código de revisão do QGIS: f5778a89df
+Versão do Qt: 5.11.2
+Versão do GDAL: 3.1.4
+Versão do GEOS: 3.8.1-CAPI-1.13.3
+Versão do PROJ: Rel. 6.3.2, May 1st, 2020
+SLYR (community edition) versão: 4.0.0
+Algoritmo de processamento...
+Algoritmo 'Convert ESRI style to QGIS style XML' iniciando…
+Entrada de parâmetros:
+{ 'INPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Pocos_de_Petroleo_2015\\release\\CPRM_pocos-petroleo-2015.style', 'OUTPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Pocos_de_Petroleo_2015\\release\\CPRM_pocos-petroleo-2015.xml' }
+
+Importing Fill symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 0 symbols of type "Fill symbols"
+
+
+Importing Line symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 0 symbols of type "Line symbols"
+
+
+Importing Marker symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 57 symbols of type "Marker symbols"
+
+
+1/57: Abandonado por Acidente Mecânico
+2/57: Abandonado por Impossibilidade de Avaliação
+3/57: Abandonado por Objetivo Fora de Previsão
+4/57: Abandonado por Outras Razões
+5/57: Abandonado por Perda de Circulação
+6/57: Descobridor de Campo com Gás e Condensado
+7/57: Descobridor de Campo com Óleo
+8/57: Descobridor de Campo com Óleo, Gás e Condensado
+9/57: Descobridor de Nova Jazida com Gás
+10/57: Descobridor de Nova Jazida com Óleo
+11/57: Descobridor de Nova Jazida com Óleo e Gás
+12/57: Descobridor de Nova Jazida com Óleo, Gás e Condensado
+13/57: Especial - Descarte de Água
+14/57: Especial - Experimental
+15/57: Especial - Outros
+16/57: Especial - Produtor de Água
+17/57: Extensão Produtor de Gás
+18/57: Extensão Produtor de Óleo
+19/57: Extensão Produtor de Óleo e Gás
+20/57: Extensão Produtor de Óleo, Gás e Condensado
+21/57: Injetor - Água
+22/57: Injetor - Co2
+23/57: Injetor - Outros
+24/57: Portador de Gás
+25/57: Portador de Óleo
+26/57: Portador de Óleo e Gás
+27/57: Portador de Óleo, Gás e condensado
+28/57: Produtor Comercial de Gás e Condensado
+29/57: Produtor Comercial de Óleo
+30/57: Produtor Comercial de Óleo e Gás
+31/57: Produtor Comercial de Óleo, Gás e Condensado
+32/57: Produtor Subcomercial de Gás
+33/57: Produtor Subcomercial de Gás e Condensado
+34/57: Produtor Subcomercial de Óleo
+35/57: Produtor Subcomercial de Óleo e Gás
+36/57: Produtor Subcomercial de Óleo, Gás e Condensado
+37/57: Seco com Indícios de Gás
+38/57: Seco com Indícios de Gás e Condensado
+39/57: Seco com Indícios de Óleo
+40/57: Seco com Indícios de Óleo e Gás
+41/57: Seco com Indícios de Óleo, Gás e Condensado
+42/57: Seco sem Indícios de Petróleo
+43/57: Abandonado por Blow-Out
+44/57: Abandonado por Objetivo/Alvo não Atingido
+45/57: Descobridor de Campo com Gás
+46/57: Descobridor de Campo com Óleo e Gás
+47/57: Descobridor de Nova Jazida com Gás e Condensado
+48/57: Especial - Controle de Blow-Out
+49/57: Especial - Observação
+50/57: Especial - Pesquisa Mineral
+51/57: Extensão Produtor de Gás e Condensado
+52/57: Indefinido
+53/57: Injetor - Água Aditivada
+54/57: Injetor - Gás
+55/57: Injetor - Vapor
+56/57: Portador de Gás e Condensado
+57/57: Produtor Comercial de Gás
+Importing Color ramps from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 0 symbols of type "Color ramps"
+
+
+Importing Line Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 0 symbols of type "Line Patches"
+
+
+Importing Area Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 0 symbols of type "Area Patches"
+
+
+Importing Text Symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 1 symbols of type "Text Symbols"
+
+
+1/1: POÇO
+Importing Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 1 symbols of type "Labels"
+
+
+1/1: POÇO
+Corrected to unique name of POÇO_1
+Importing Maplex Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Pocos_de_Petroleo_2015\release\CPRM_pocos-petroleo-2015.style
+Found 0 symbols of type "Maplex Labels"
+
+
+Tarefa executada em 3.59 segundos
+Resultados:
+{'AREA_PATCH_COUNT': 0,
+'COLOR_RAMP_COUNT': 0,
+'FILL_SYMBOL_COUNT': 0,
+'LABEL_SETTINGS_COUNT': 1,
+'LINE_PATCH_COUNT': 0,
+'LINE_SYMBOL_COUNT': 0,
+'MARKER_SYMBOL_COUNT': 57,
+'OUTPUT': 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Pocos_de_Petroleo_2015\\release\\CPRM_pocos-petroleo-2015.xml',
+'REPORT': '',
+'TEXT_FORMAT_COUNT': 1,
+'UNREADABLE_AREA_PATCHES': 0,
+'UNREADABLE_COLOR_RAMPS': 0,
+'UNREADABLE_FILL_SYMBOLS': 0,
+'UNREADABLE_LABEL_SETTINGS': 0,
+'UNREADABLE_LINE_PATCHES': 0,
+'UNREADABLE_LINE_SYMBOLS': 0,
+'UNREADABLE_MARKER_SYMBOLS': 0,
+'UNREADABLE_TEXT_FORMATS': 0}
+
+Carregando camada resultante
+Algoritmo 'Convert ESRI style to QGIS style XML' finalizado
